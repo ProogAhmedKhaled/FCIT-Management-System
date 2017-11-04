@@ -1,0 +1,39 @@
+------------- Welcome to FCIT Management System -----------
+--------- Current Date :  Thu Apr 20 00:08:38 EET 2017--------
+Command: Print_Report Student Detail are as Follows: 
+ ID: 17014 , Name: Ismail_AlSabani , Nationality: Syrian , Date of Birth: Thu Feb 13 00:00:00 EET 3896 , Gender: M , Phone: 38275222 , Address: Madina
+			--------------------------------
+Department: Computer_Science, Semester: 5
+Cgpa: 2.87
+Enroll Data: Fri Jun 05 00:00:00 EEST 3914
+
+-------------------------------------------------------------
+ Teacher Detail are as Follows: 
+ ID: 45149 , Name: Ghada_Ali_Zahrani , Nationality: Saudi , Date of Birth: Sat May 08 00:00:00 EEST 3880 , Gender: F , Phone: 508793215 , Address: Fayha , Job Title: Lecturer , Office Number: 381 , On Leave: false  degree: Masters , department: IS , teachingHours: 11.0
+
+--------------------------------------------------------------
+ Invilgator Detail are as Follows: 
+ ID: 35548 , Name: Hamza_Jalal , Nationality: Saudi , Date of Birth: Sun Nov 25 00:00:00 EET 3888 , Gender: M , Phone: 547674174 , Address: Jamia , Job Title: Secretary , Office Number: 147 , On Leave: false , inviligatonExperience: 3 , invilgatonExpertise: Exam_Attendance
+
+---------------------------------------------------------------	---Course Lab Details are as follows:---
+Labe Code: 504, Lab Name: Graphics_Lab, hours: 1.5
+
+Labe Code: 506, Lab Name: System_Analysis_Lab, hours: 2.0
+
+Labe Code: 509, Lab Name: Programming_Lab, hours: 1.5
+
+
+------------------------------------------------------------
+--- Course Details are as follows:--- 
+Course Code: 204, Course Title: Data_Structure , Hours:3.0
+
+Course Code: 353, Course Title: Software_Engineering2 , Hours:2.0
+
+Course Code: 301, Course Title: Artificial_Intelligence , Hours:3.0
+
+Course Code: 353, Course Title: Software_Engineering2 , Hours:2.0
+
+-----------------------------------------------------------------
+---Exam Venue Details are as follows:---  
+Exam Venue No.: 1014 , Floor: Fifth, Building No.:31
+

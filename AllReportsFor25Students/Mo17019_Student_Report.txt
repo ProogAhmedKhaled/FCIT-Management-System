@@ -1,0 +1,33 @@
+------------- Welcome to FCIT Management System -----------
+--------- Current Date :  Thu Apr 20 00:08:38 EET 2017--------
+Command: Print_Report Student Detail are as Follows: 
+ ID: 17019 , Name: Mohamed_Obaid_AlSahli , Nationality: Saudi , Date of Birth: Thu Aug 11 00:00:00 EEST 3898 , Gender: M , Phone: 38642930 , Address: Riyadh
+			--------------------------------
+Department: Information_Technology, Semester: 5
+Cgpa: 2.7
+Enroll Data: Sat Jul 18 00:00:00 EEST 3914
+
+-------------------------------------------------------------
+ Teacher Detail are as Follows: 
+ ID: 45149 , Name: Ghada_Ali_Zahrani , Nationality: Saudi , Date of Birth: Sat May 08 00:00:00 EEST 3880 , Gender: F , Phone: 508793215 , Address: Fayha , Job Title: Lecturer , Office Number: 381 , On Leave: false  degree: Masters , department: IS , teachingHours: 11.0
+
+--------------------------------------------------------------
+ Invilgator Detail are as Follows: 
+ ID: 35548 , Name: Hamza_Jalal , Nationality: Saudi , Date of Birth: Sun Nov 25 00:00:00 EET 3888 , Gender: M , Phone: 547674174 , Address: Jamia , Job Title: Secretary , Office Number: 147 , On Leave: false , inviligatonExperience: 3 , invilgatonExpertise: Exam_Attendance
+
+---------------------------------------------------------------	---Course Lab Details are as follows:---
+Labe Code: 509, Lab Name: Programming_Lab, hours: 1.5
+
+Labe Code: 504, Lab Name: Graphics_Lab, hours: 1.5
+
+
+------------------------------------------------------------
+--- Course Details are as follows:--- 
+Course Code: 498, Course Title: Senior_Project , Hours:1.0
+
+Course Code: 201, Course Title: Computer_Fundamentals , Hours:4.0
+
+-----------------------------------------------------------------
+---Exam Venue Details are as follows:---  
+Exam Venue No.: 1019 , Floor: Third, Building No.:35
+

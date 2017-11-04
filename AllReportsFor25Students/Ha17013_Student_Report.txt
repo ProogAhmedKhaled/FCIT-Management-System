@@ -1,0 +1,49 @@
+------------- Welcome to FCIT Management System -----------
+--------- Current Date :  Thu Apr 20 00:08:38 EET 2017--------
+Command: Print_Report Student Detail are as Follows: 
+ ID: 17013 , Name: Hamdan_Odha_AlBishi , Nationality: Saudi , Date of Birth: Sat Jan 08 00:00:00 EET 3898 , Gender: M , Phone: 26532951 , Address: Makkah
+			--------------------------------
+Department: Information_Technology, Semester: 7
+Cgpa: 2.97
+Enroll Data: Thu Jun 05 00:00:00 EEST 3913
+
+-------------------------------------------------------------
+ Teacher Detail are as Follows: 
+ ID: 45149 , Name: Ghada_Ali_Zahrani , Nationality: Saudi , Date of Birth: Sat May 08 00:00:00 EEST 3880 , Gender: F , Phone: 508793215 , Address: Fayha , Job Title: Lecturer , Office Number: 381 , On Leave: false  degree: Masters , department: IS , teachingHours: 11.0
+
+--------------------------------------------------------------
+ Invilgator Detail are as Follows: 
+ ID: 35822 , Name: Ghazi_Alqahtani , Nationality: Saudi , Date of Birth: Sat Sep 22 00:00:00 EEST 3877 , Gender: M , Phone: 523003344 , Address: Rehab , Job Title: Admin_officer , Office Number: 198 , On Leave: true , inviligatonExperience: 5 , invilgatonExpertise: Remote_Invigilation
+
+---------------------------------------------------------------	---Course Lab Details are as follows:---
+Labe Code: 503, Lab Name: Graphics_Lab, hours: 2.5
+
+Labe Code: 505, Lab Name: Software_Lab, hours: 1.5
+
+Labe Code: 506, Lab Name: System_Analysis_Lab, hours: 2.0
+
+Labe Code: 509, Lab Name: Programming_Lab, hours: 1.5
+
+Labe Code: 510, Lab Name: Graphics_Lab, hours: 2.0
+
+
+------------------------------------------------------------
+--- Course Details are as follows:--- 
+Course Code: 203, Course Title: Programming2 , Hours:3.0
+
+Course Code: 498, Course Title: Senior_Project , Hours:1.0
+
+Course Code: 204, Course Title: Data_Structure , Hours:3.0
+
+Course Code: 351, Course Title: Software_Engineering1 , Hours:3.0
+
+Course Code: 301, Course Title: Artificial_Intelligence , Hours:3.0
+
+Course Code: 201, Course Title: Computer_Fundamentals , Hours:4.0
+
+Course Code: 391, Course Title: Computer_Graphics , Hours:3.0
+
+-----------------------------------------------------------------
+---Exam Venue Details are as follows:---  
+Exam Venue No.: 1013 , Floor: Second, Building No.:31
+

@@ -1,0 +1,41 @@
+------------- Welcome to FCIT Management System -----------
+--------- Current Date :  Thu Apr 20 00:08:38 EET 2017--------
+Command: Print_Report Student Detail are as Follows: 
+ ID: 17018 , Name: Fatima_AlYassin , Nationality: Syrian , Date of Birth: Sun Sep 04 00:00:00 EEST 3898 , Gender: F , Phone: 38557596 , Address: Jeddah
+			--------------------------------
+Department: Information_Technology, Semester: 6
+Cgpa: 3.33
+Enroll Data: Thu Jun 05 00:00:00 EEST 3913
+
+-------------------------------------------------------------
+ Teacher Detail are as Follows: 
+ ID: 45149 , Name: Ghada_Ali_Zahrani , Nationality: Saudi , Date of Birth: Sat May 08 00:00:00 EEST 3880 , Gender: F , Phone: 508793215 , Address: Fayha , Job Title: Lecturer , Office Number: 381 , On Leave: false  degree: Masters , department: IS , teachingHours: 11.0
+
+--------------------------------------------------------------
+ Invilgator Detail are as Follows: 
+ ID: 35822 , Name: Ghazi_Alqahtani , Nationality: Saudi , Date of Birth: Sat Sep 22 00:00:00 EEST 3877 , Gender: M , Phone: 523003344 , Address: Rehab , Job Title: Admin_officer , Office Number: 198 , On Leave: true , inviligatonExperience: 5 , invilgatonExpertise: Remote_Invigilation
+
+---------------------------------------------------------------	---Course Lab Details are as follows:---
+Labe Code: 508, Lab Name: Graphics_Lab, hours: 2.5
+
+Labe Code: 503, Lab Name: Graphics_Lab, hours: 2.5
+
+Labe Code: 507, Lab Name: Graphics_Lab, hours: 1.5
+
+Labe Code: 509, Lab Name: Programming_Lab, hours: 1.5
+
+
+------------------------------------------------------------
+--- Course Details are as follows:--- 
+Course Code: 403, Course Title: Internet_Programming , Hours:2.0
+
+Course Code: 353, Course Title: Software_Engineering2 , Hours:2.0
+
+Course Code: 498, Course Title: Senior_Project , Hours:1.0
+
+Course Code: 204, Course Title: Data_Structure , Hours:3.0
+
+-----------------------------------------------------------------
+---Exam Venue Details are as follows:---  
+Exam Venue No.: 1018 , Floor: Third, Building No.:34
+

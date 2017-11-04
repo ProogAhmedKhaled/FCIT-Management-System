@@ -1,0 +1,47 @@
+------------- Welcome to FCIT Management System -----------
+--------- Current Date :  Thu Apr 20 00:08:38 EET 2017--------
+Command: Print_Report Student Detail are as Follows: 
+ ID: 17023 , Name: Hadi_Soua'an_AlSomaily , Nationality: Saudi , Date of Birth: Thu Mar 10 00:00:00 EET 3898 , Gender: M , Phone: 38451256 , Address: Jeddah
+			--------------------------------
+Department: Information_Systems, Semester: 3
+Cgpa: 3.42
+Enroll Data: Fri Jun 05 00:00:00 EEST 3914
+
+-------------------------------------------------------------
+ Teacher Detail are as Follows: 
+ ID: 45149 , Name: Ghada_Ali_Zahrani , Nationality: Saudi , Date of Birth: Sat May 08 00:00:00 EEST 3880 , Gender: F , Phone: 508793215 , Address: Fayha , Job Title: Lecturer , Office Number: 381 , On Leave: false  degree: Masters , department: IS , teachingHours: 11.0
+
+--------------------------------------------------------------
+ Invilgator Detail are as Follows: 
+ ID: 35822 , Name: Ghazi_Alqahtani , Nationality: Saudi , Date of Birth: Sat Sep 22 00:00:00 EEST 3877 , Gender: M , Phone: 523003344 , Address: Rehab , Job Title: Admin_officer , Office Number: 198 , On Leave: true , inviligatonExperience: 5 , invilgatonExpertise: Remote_Invigilation
+
+---------------------------------------------------------------	---Course Lab Details are as follows:---
+Labe Code: 503, Lab Name: Graphics_Lab, hours: 2.5
+
+Labe Code: 505, Lab Name: Software_Lab, hours: 1.5
+
+Labe Code: 508, Lab Name: Graphics_Lab, hours: 2.5
+
+Labe Code: 506, Lab Name: System_Analysis_Lab, hours: 2.0
+
+Labe Code: 507, Lab Name: Graphics_Lab, hours: 1.5
+
+
+------------------------------------------------------------
+--- Course Details are as follows:--- 
+Course Code: 203, Course Title: Programming2 , Hours:3.0
+
+Course Code: 301, Course Title: Artificial_Intelligence , Hours:3.0
+
+Course Code: 204, Course Title: Data_Structure , Hours:3.0
+
+Course Code: 353, Course Title: Software_Engineering2 , Hours:2.0
+
+Course Code: 351, Course Title: Software_Engineering1 , Hours:3.0
+
+Course Code: 498, Course Title: Senior_Project , Hours:1.0
+
+-----------------------------------------------------------------
+---Exam Venue Details are as follows:---  
+Exam Venue No.: 1020 , Floor: Ground, Building No.:36
+

@@ -1,0 +1,43 @@
+------------- Welcome to FCIT Management System -----------
+--------- Current Date :  Thu Apr 20 00:08:38 EET 2017--------
+Command: Print_Report Student Detail are as Follows: 
+ ID: 17015 , Name: Mohamed_Ali_AlBishi , Nationality: Saudi , Date of Birth: Sat Mar 16 00:00:00 EET 3895 , Gender: M , Phone: 35661261 , Address: Riyadh
+			--------------------------------
+Department: Computer_Science, Semester: 4
+Cgpa: 3.73
+Enroll Data: Thu Apr 17 00:00:00 EET 3913
+
+-------------------------------------------------------------
+ Teacher Detail are as Follows: 
+ ID: 45149 , Name: Ghada_Ali_Zahrani , Nationality: Saudi , Date of Birth: Sat May 08 00:00:00 EEST 3880 , Gender: F , Phone: 508793215 , Address: Fayha , Job Title: Lecturer , Office Number: 381 , On Leave: false  degree: Masters , department: IS , teachingHours: 11.0
+
+--------------------------------------------------------------
+ Invilgator Detail are as Follows: 
+ ID: 22519 , Name: Ameer_Bandar , Nationality: Saudi , Date of Birth: Fri May 28 00:00:00 EEST 3875 , Gender: M , Phone: 554803421 , Address: Jamia , Job Title: Developer , Office Number: 123 , On Leave: false , inviligatonExperience: 5 , invilgatonExpertise: Supervision
+
+---------------------------------------------------------------	---Course Lab Details are as follows:---
+Labe Code: 505, Lab Name: Software_Lab, hours: 1.5
+
+Labe Code: 507, Lab Name: Graphics_Lab, hours: 1.5
+
+Labe Code: 508, Lab Name: Graphics_Lab, hours: 2.5
+
+Labe Code: 509, Lab Name: Programming_Lab, hours: 1.5
+
+
+------------------------------------------------------------
+--- Course Details are as follows:--- 
+Course Code: 301, Course Title: Artificial_Intelligence , Hours:3.0
+
+Course Code: 391, Course Title: Computer_Graphics , Hours:3.0
+
+Course Code: 351, Course Title: Software_Engineering1 , Hours:3.0
+
+Course Code: 201, Course Title: Computer_Fundamentals , Hours:4.0
+
+Course Code: 391, Course Title: Computer_Graphics , Hours:3.0
+
+-----------------------------------------------------------------
+---Exam Venue Details are as follows:---  
+Exam Venue No.: 1015 , Floor: Third, Building No.:31
+
